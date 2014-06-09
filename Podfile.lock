@@ -1,0 +1,17 @@
+PODS:
+  - FontAwesome+iOS (0.0.1)
+  - SpritzSDK (1.0)
+
+DEPENDENCIES:
+  - FontAwesome+iOS (~> 0.0.1)
+  - SpritzSDK (from `http://sdk.spritzinc.com/ios/1.0/SpritzSDK.podspec`)
+
+EXTERNAL SOURCES:
+  SpritzSDK:
+    :podspec: http://sdk.spritzinc.com/ios/1.0/SpritzSDK.podspec
+
+SPEC CHECKSUMS:
+  FontAwesome+iOS: d4841a56a9f47cdaddc97e29c93a3d0f7026e022
+  SpritzSDK: 0113b3684f2ec0beb460b2b033634d39fe781208
+
+COCOAPODS: 0.33.1
